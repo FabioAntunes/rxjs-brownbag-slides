@@ -1,5 +1,5 @@
 # RxJS slides
-This are the slide for the yld brownbag
+These are the slides for the yld brownbag
 
 ## Running
 
