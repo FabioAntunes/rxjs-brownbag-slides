@@ -1,7 +1,7 @@
-#RxJS slides
+# RxJS slides
 This are the slide for the yld brownbag
 
-##Running
+## Running
 
 ```bash
 npm i && npm start
